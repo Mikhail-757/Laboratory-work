@@ -1,0 +1,5 @@
+mkdir ~/LabWork - создать новую директорию
+echo "Hello, World!" > example.txt - добавление текста в файл
+cp example.txt copy_example.txt - создание копии
+mv copy_example.txt renamed_example.txt -	переименование файла
+rm renamed_example.txt
